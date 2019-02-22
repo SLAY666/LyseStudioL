@@ -12,8 +12,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1219" />
-    <option name="y" value="720" />
+    <option name="x" value="695" />
+    <option name="y" value="237" />
     <option name="width" value="1467" />
     <option name="height" value="911" />
   </component>
@@ -63,15 +63,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550800135169</updated>
-      <workItem from="1550800136415" duration="621000" />
+      <workItem from="1550800136415" duration="1264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="621000" />
+    <option name="totallyTimeSpent" value="1264000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1070" y="172" width="1467" height="911" extended-state="0" />
+    <frame x="695" y="237" width="1467" height="911" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24982457" />
