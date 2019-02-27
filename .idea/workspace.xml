@@ -14,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/etudes.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="615">
-              <caret line="41" column="57" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="41" selection-end-column="57" />
+              <caret line="41" column="57" selection-start-line="7" selection-start-column="4" selection-end-line="41" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -37,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../Cours_02/JeMePresenteOnePage/0nepage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="50" column="33" lean-forward="true" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+            <state relative-caret-position="206">
+              <caret line="49" column="40" selection-end-line="140" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OnePage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="751">
+              <caret line="140" column="7" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -84,6 +93,7 @@
         <option value="$PROJECT_DIR$/sports.html" />
         <option value="$PROJECT_DIR$/one_page.html" />
         <option value="$PROJECT_DIR$/../../../Cours_02/JeMePresenteOnePage/0nepage.html" />
+        <option value="$PROJECT_DIR$/OnePage.html" />
       </list>
     </option>
   </component>
@@ -148,12 +158,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550800135169</updated>
       <workItem from="1550800136415" duration="4078000" />
-      <workItem from="1551303125289" duration="7358000" />
+      <workItem from="1551303125289" duration="7809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11436000" />
+    <option name="totallyTimeSpent" value="11887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="375" y="270" width="1790" height="923" extended-state="0" />
@@ -194,7 +204,7 @@
     <entry file="file://$PROJECT_DIR$/etudes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
-          <caret line="41" column="57" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="41" selection-end-column="57" />
+          <caret line="41" column="57" selection-start-line="7" selection-start-column="4" selection-end-line="41" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -212,13 +222,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sports.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="39" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -226,10 +229,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sports.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="39" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../../../Cours_02/JeMePresenteOnePage/0nepage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="50" column="33" lean-forward="true" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+        <state relative-caret-position="206">
+          <caret line="49" column="40" selection-end-line="140" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OnePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="751">
+          <caret line="140" column="7" selection-start-line="140" selection-start-column="7" selection-end-line="140" selection-end-column="7" />
         </state>
       </provider>
     </entry>
