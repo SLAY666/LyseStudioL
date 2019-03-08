@@ -40,5 +40,15 @@ p
 }
 
 a {
-    color: hotpink;
+    color: lightskyblue;
+}
+
+a:visited
+{
+    color : darkblue;
+}
+
+a:hover
+{
+    color : plum;
 }
