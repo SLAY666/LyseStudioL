@@ -58,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JeMePresenteOnePage2/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="449">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -132,8 +132,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-38" />
-    <option name="y" value="261" />
+    <option name="x" value="151" />
+    <option name="y" value="279" />
     <option name="width" value="1327" />
     <option name="height" value="747" />
   </component>
@@ -222,16 +222,15 @@
       <workItem from="1551383297414" duration="142000" />
       <workItem from="1551386715855" duration="341000" />
       <workItem from="1551394138054" duration="5729000" />
-      <workItem from="1552001139077" duration="7845000" />
+      <workItem from="1552001139077" duration="8312000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31456000" />
+    <option name="totallyTimeSpent" value="31923000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-38" y="261" width="1327" height="747" extended-state="0" />
-    <editor active="true" />
+    <frame x="151" y="279" width="1327" height="747" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41945526" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -320,8 +319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresenteOnePage2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="449">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
