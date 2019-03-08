@@ -58,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JeMePresenteOnePage2/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -123,8 +123,8 @@
         <option value="$PROJECT_DIR$/JeMePresente_v1/OnePage.html" />
         <option value="$PROJECT_DIR$/JeMePresenteOnePage/index.html" />
         <option value="$PROJECT_DIR$/JeMePresente_v1/loisirs.html" />
-        <option value="$PROJECT_DIR$/JeMePresenteOnePage2/css/style.css" />
         <option value="$PROJECT_DIR$/JeMePresenteOnePage2/index.html" />
+        <option value="$PROJECT_DIR$/JeMePresenteOnePage2/css/style.css" />
       </list>
     </option>
   </component>
@@ -132,8 +132,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="365" />
-    <option name="y" value="308" />
+    <option name="x" value="897" />
+    <option name="y" value="299" />
     <option name="width" value="1327" />
     <option name="height" value="747" />
   </component>
@@ -222,15 +222,15 @@
       <workItem from="1551383297414" duration="142000" />
       <workItem from="1551386715855" duration="341000" />
       <workItem from="1551394138054" duration="5729000" />
-      <workItem from="1552001139077" duration="6820000" />
+      <workItem from="1552001139077" duration="7324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30431000" />
+    <option name="totallyTimeSpent" value="30935000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="365" y="308" width="1327" height="747" extended-state="0" />
+    <frame x="897" y="299" width="1327" height="747" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41945526" />
@@ -320,8 +320,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresenteOnePage2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
