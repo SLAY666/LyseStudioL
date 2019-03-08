@@ -8,7 +8,7 @@ body
     width: 900px; /*Largeur du site*/
     margin: auto; /* pour centrer le site en largeur */
     background: url(../img/Fond-site.jpg) no-repeat top;
-    margin:auto;
+    margin: auto;
     background-color: aliceblue;
 }
 
