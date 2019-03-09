@@ -19,6 +19,11 @@ img
      border-radius: 25px;
 }
 
+img:hover
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 h1 /* caractéristiques propres */
 {
     font-size: 36px;
@@ -41,16 +46,53 @@ p
     text-align: justify;
 }
 
-a {
+a:link
+{
+    text-decoration:none;
+    text-align: center;
+}
+
+a
+{
     color: lightskyblue;
+    display:block;margin:auto;
 }
 
 a:visited
 {
-    color : darkblue;
+    color: midnightblue;
 }
 
 a:hover
 {
-    color : plum;
+    color: plum;
+    text-decoration: underline;
+    text-decoration-color: plum;
+}
+
+table
+{
+    border-collapse: collapse;
+    margin: auto;
+    font-size: 24px;
+    color: darkcyan;
+}
+
+table, th, td
+{
+    border: 1px solid black;
+    padding: 15px;
+    text-align: left;
+}
+
+ul
+{
+    font-size: 24px;
+    color: mediumturquoise;
+}
+
+ol
+{
+    font-size: 24px;
+    color: plum;
 }
