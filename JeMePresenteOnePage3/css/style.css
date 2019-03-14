@@ -1,0 +1,98 @@
+/* TestCSS.css */
+/* Programmé par Lyse Chamberland */
+/* Le 7 mars 2019 */
+
+
+body
+{
+    width: 900px; /*Largeur du site*/
+    margin: auto; /* pour centrer le site en largeur */
+    background: url(../img/Fond-site.jpg) no-repeat top;
+    margin: auto;
+    background-color: aliceblue;
+}
+
+img
+{
+    display:block;margin:auto;
+        width: 300px;
+     border-radius: 25px;
+}
+
+img:hover
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1 /* caractéristiques propres */
+{
+    font-size: 36px;
+}
+
+h2 /* caractéristiques propres */
+{
+    font-size: 24px;
+}
+
+h1, h2 /* caractéristiques communes */
+{
+    color: darkmagenta;
+    text-align: center;
+}
+
+p
+{
+    font-size: 14px;
+    text-align: justify;
+}
+
+a:link
+{
+    text-decoration:none;
+    text-align: center;
+}
+
+a
+{
+    color: lightskyblue;
+    display:block;margin:auto;
+}
+
+a:visited
+{
+    color: midnightblue;
+}
+
+a:hover
+{
+    color: plum;
+    text-decoration: underline;
+    text-decoration-color: plum;
+}
+
+table
+{
+    border-collapse: collapse;
+    margin: auto;
+    font-size: 24px;
+    color: darkcyan;
+}
+
+table, th, td
+{
+    border: 1px solid black;
+    padding: 15px;
+    text-align: left;
+}
+
+ul
+{
+    font-size: 24px;
+    color: mediumturquoise;
+}
+
+ol
+{
+    font-size: 24px;
+    color: plum;
+}
