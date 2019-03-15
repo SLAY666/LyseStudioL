@@ -4,5 +4,20 @@
 
 #sectionEtudes
 {
-    Background-color: red;
+    Background-color: peachpuff;
+}
+
+#sectionLoisirs
+{
+    Background-color: bisque;
+}
+
+#sectionReves
+{
+    Background-color: olivedrab;
+}
+
+#sectionSports
+{
+    Background-color: lightsteelblue;
 }
