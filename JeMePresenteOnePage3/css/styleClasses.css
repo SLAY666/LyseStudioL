@@ -2,6 +2,28 @@
 /* Programmé par Lyse Chamberland */
 /* Le 14 mars 2019 */
 
+body
+{
+    width: 900px; /*Largeur du site*/
+    margin: auto; /* pour centrer le site en largeur */
+}
+
+img
+{
+    display:block;margin:auto;
+}
+
+h1, h2 /* caractéristiques communes */
+{
+    text-align: center;
+}
+
+a:link
+{
+    text-decoration:none;
+    text-align: center;
+}
+
 #sectionEtudes
 {
     Background-color: peru;
@@ -38,6 +60,7 @@
     color: dimgrey;
     font-size: 48px;
     font-family: 'Margarine', cursive;
+    margin: 0;
 }
 
 .titrePale
@@ -45,6 +68,7 @@
     color: seashell;
     font-size: 48px;
     font-family: 'Margarine', cursive;
+    margin: 0;
 }
 
 .soustitrePale
@@ -52,5 +76,6 @@
     color: seashell;
     font-size: 32px;
     font-family: 'Margarine', cursive;
+    margin: 0;
 }
 
