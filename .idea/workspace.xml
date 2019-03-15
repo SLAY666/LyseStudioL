@@ -74,20 +74,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JeMePresenteOnePage3/onePageClasses.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="826">
-              <caret line="142" column="10" selection-start-line="142" selection-start-column="10" selection-end-line="142" selection-end-column="10" />
+            <state relative-caret-position="563">
+              <caret line="55" column="8" lean-forward="true" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeMePresenteOnePage3/css/styleClasses.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="735">
+              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -139,8 +139,8 @@
         <option value="$PROJECT_DIR$/JeMePresente_v1/loisirs.html" />
         <option value="$PROJECT_DIR$/JeMePresenteOnePage2/css/style.css" />
         <option value="$PROJECT_DIR$/JeMePresenteOnePage2/index.html" />
-        <option value="$PROJECT_DIR$/JeMePresenteOnePage3/onePageClasses.html" />
         <option value="$PROJECT_DIR$/JeMePresenteOnePage3/css/styleClasses.css" />
+        <option value="$PROJECT_DIR$/JeMePresenteOnePage3/onePageClasses.html" />
       </list>
     </option>
   </component>
@@ -234,12 +234,12 @@
       <workItem from="1551394138054" duration="5729000" />
       <workItem from="1552001139077" duration="8463000" />
       <workItem from="1552151197210" duration="6100000" />
-      <workItem from="1552602584666" duration="4766000" />
+      <workItem from="1552602584666" duration="6713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42940000" />
+    <option name="totallyTimeSpent" value="44887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="497" y="267" width="1822" height="1073" extended-state="0" />
@@ -358,17 +358,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresenteOnePage3/onePageClasses.html">
+    <entry file="file://$PROJECT_DIR$/JeMePresenteOnePage3/css/styleClasses.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="826">
-          <caret line="142" column="10" selection-start-line="142" selection-start-column="10" selection-end-line="142" selection-end-column="10" />
+        <state relative-caret-position="735">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresenteOnePage3/css/styleClasses.css">
+    <entry file="file://$PROJECT_DIR$/JeMePresenteOnePage3/onePageClasses.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="563">
+          <caret line="55" column="8" lean-forward="true" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
         </state>
       </provider>
     </entry>

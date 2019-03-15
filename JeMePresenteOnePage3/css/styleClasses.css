@@ -4,7 +4,7 @@
 
 #sectionEtudes
 {
-    Background-color: papayawhip;
+    Background-color: peru;
 }
 
 #sectionLoisirs
@@ -21,3 +21,36 @@
 {
     Background-color: yellowgreen;
 }
+
+.belleImage
+{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.belleImage:hover
+{
+    box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.5);
+}
+
+.titreFonce
+{
+    color: dimgrey;
+    font-size: 48px;
+    font-family: 'Margarine', cursive;
+}
+
+.titrePale
+{
+    color: seashell;
+    font-size: 48px;
+    font-family: 'Margarine', cursive;
+}
+
+.soustitrePale
+{
+    color: seashell;
+    font-size: 32px;
+    font-family: 'Margarine', cursive;
+}
+
