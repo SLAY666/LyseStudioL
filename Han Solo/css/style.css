@@ -36,3 +36,19 @@ h2,h3,h4{
     color : #ffffff;
     text-align: center;
 }
+
+p{
+    font-size: 16px;
+    color:#ffffff;
+    text-align: justify;
+}
+
+img{
+    margin: auto;
+    display: block;
+}
+
+.films
+{
+    color : #fff24b;
+}
