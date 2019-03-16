@@ -32,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+            <state relative-caret-position="359">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -84,8 +84,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="295" />
-    <option name="y" value="133" />
+    <option name="x" value="512" />
+    <option name="y" value="217" />
     <option name="width" value="1822" />
     <option name="height" value="1073" />
   </component>
@@ -165,15 +165,15 @@
       <workItem from="1552001139077" duration="8463000" />
       <workItem from="1552151197210" duration="6100000" />
       <workItem from="1552602584666" duration="9036000" />
-      <workItem from="1552741058178" duration="2467000" />
+      <workItem from="1552741058178" duration="2856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49677000" />
+    <option name="totallyTimeSpent" value="50066000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="295" y="133" width="1822" height="1073" extended-state="0" />
+    <frame x="512" y="217" width="1822" height="1073" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31573033" />
@@ -314,8 +314,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        <state relative-caret-position="359">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
