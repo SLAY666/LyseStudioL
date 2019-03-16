@@ -58,3 +58,10 @@ a{
     text-decoration:  underline;
 }
 
+.centrer
+{
+    text-align:center;
+    margin: 50px;
+
+}
+
