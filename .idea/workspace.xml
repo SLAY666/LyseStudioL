@@ -76,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HelloBootStrapWorld/exercice7.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+            <state relative-caret-position="450">
+              <caret line="30" column="54" lean-forward="true" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -150,8 +150,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="519" />
-    <option name="y" value="272" />
+    <option name="x" value="335" />
+    <option name="y" value="199" />
     <option name="width" value="1822" />
     <option name="height" value="1073" />
   </component>
@@ -234,15 +234,15 @@
       <workItem from="1552151197210" duration="6100000" />
       <workItem from="1552602584666" duration="9036000" />
       <workItem from="1552741058178" duration="11977000" />
-      <workItem from="1553204474457" duration="5518000" />
+      <workItem from="1553204474457" duration="7834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64705000" />
+    <option name="totallyTimeSpent" value="67021000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="519" y="272" width="1822" height="1073" extended-state="0" />
+    <frame x="335" y="199" width="1822" height="1073" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31910113" />
@@ -456,8 +456,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloBootStrapWorld/exercice7.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+        <state relative-caret-position="450">
+          <caret line="30" column="54" lean-forward="true" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
         </state>
       </provider>
     </entry>
