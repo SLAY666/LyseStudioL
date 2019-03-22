@@ -19,11 +19,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloBootStrapWorld/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+            <state relative-caret-position="405">
+              <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HelloBootStrapWorld/exercice2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -65,15 +74,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="751">
               <caret line="70" selection-start-line="70" selection-end-line="74" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeMePresenteOnePage3/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="80" selection-start-line="80" selection-end-line="85" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -133,6 +133,7 @@
         <option value="$PROJECT_DIR$/Han Solo/css/style.css" />
         <option value="$PROJECT_DIR$/HelloBootStrapWorld/css/style.css" />
         <option value="$PROJECT_DIR$/HelloBootStrapWorld/index.html" />
+        <option value="$PROJECT_DIR$/HelloBootStrapWorld/exercice2.html" />
       </list>
     </option>
   </component>
@@ -140,8 +141,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-71" />
-    <option name="y" value="235" />
+    <option name="x" value="519" />
+    <option name="y" value="272" />
     <option name="width" value="1822" />
     <option name="height" value="1073" />
   </component>
@@ -197,8 +198,8 @@
       <recent name="$PROJECT_DIR$/img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/HelloBootStrapWorld/js" />
       <recent name="$PROJECT_DIR$/HelloBootStrapWorld" />
+      <recent name="$PROJECT_DIR$/HelloBootStrapWorld/js" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/JeMePresenteOnePage/img" />
     </key>
@@ -236,15 +237,15 @@
       <workItem from="1552151197210" duration="6100000" />
       <workItem from="1552602584666" duration="9036000" />
       <workItem from="1552741058178" duration="11977000" />
-      <workItem from="1553204474457" duration="3316000" />
+      <workItem from="1553204474457" duration="3980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62503000" />
+    <option name="totallyTimeSpent" value="63167000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="476" y="254" width="1822" height="1073" extended-state="0" />
+    <frame x="519" y="272" width="1822" height="1073" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31910113" />
@@ -416,8 +417,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloBootStrapWorld/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        <state relative-caret-position="405">
+          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloBootStrapWorld/exercice2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
         </state>
       </provider>
     </entry>
