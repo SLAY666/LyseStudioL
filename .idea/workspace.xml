@@ -58,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SiteBootStrap/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="645">
+              <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -72,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SiteBootStrap/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+            <state relative-caret-position="749">
+              <caret line="51" column="30" lean-forward="true" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -81,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Han Solo/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="636">
-              <caret line="43" selection-start-line="43" selection-end-line="47" selection-end-column="1" />
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="24" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -139,8 +139,8 @@
         <option value="$PROJECT_DIR$/HelloBootStrapWorld/exercice5.html" />
         <option value="$PROJECT_DIR$/HelloBootStrapWorld/exercice6.html" />
         <option value="$PROJECT_DIR$/HelloBootStrapWorld/exercice7.html" />
-        <option value="$PROJECT_DIR$/SiteBootStrap/css/style.css" />
         <option value="$PROJECT_DIR$/SiteBootStrap/index.html" />
+        <option value="$PROJECT_DIR$/SiteBootStrap/css/style.css" />
       </list>
     </option>
   </component>
@@ -148,8 +148,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="948" />
-    <option name="y" value="137" />
+    <option name="x" value="659" />
+    <option name="y" value="129" />
     <option name="width" value="1502" />
     <option name="height" value="1099" />
   </component>
@@ -281,15 +281,15 @@
       <workItem from="1552741058178" duration="11977000" />
       <workItem from="1553204474457" duration="7890000" />
       <workItem from="1553811344129" duration="8120000" />
-      <workItem from="1554416591189" duration="5865000" />
+      <workItem from="1554416591189" duration="7332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81062000" />
+    <option name="totallyTimeSpent" value="82529000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="925" y="159" width="1502" height="1099" extended-state="0" />
+    <frame x="659" y="129" width="1502" height="1099" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1828767" />
@@ -501,22 +501,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Han Solo/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="43" selection-start-line="43" selection-end-line="47" selection-end-column="1" />
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SiteBootStrap/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="645">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SiteBootStrap/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        <state relative-caret-position="749">
+          <caret line="51" column="30" lean-forward="true" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
         </state>
       </provider>
     </entry>
