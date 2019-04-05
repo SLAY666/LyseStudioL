@@ -13,6 +13,7 @@ html,body
 
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .hauteur100
@@ -25,7 +26,7 @@ hr{
     padding-top:30px;
     max-width: 50px;
     border-width: 3px;
-    border-color: #fff24b;
+    border-color: orange;
 }
 
 h1{
@@ -43,6 +44,22 @@ h2{
     text-align: center;
     margin: 0;
 }
+
+h3{
+    font-family: Ubuntu;
+    font-size: 30px;
+    color : #0056b3;
+    text-align: center;
+    margin: 0;
+}
+
+.bleu
+{
+    height: 100px;
+    background-color: blue;
+
+}
+
 
 p{
     font-size: 16px;
