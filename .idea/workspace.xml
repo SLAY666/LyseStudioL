@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloBootStrapWorld/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="42" />
+            <state relative-caret-position="630">
+              <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -58,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SiteBootStrap/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="837">
-              <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+            <state relative-caret-position="804">
+              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
         </entry>
@@ -72,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SiteBootStrap/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="878">
-              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+            <state relative-caret-position="191">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
         </entry>
@@ -81,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Han Solo/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -139,8 +139,8 @@
         <option value="$PROJECT_DIR$/HelloBootStrapWorld/exercice5.html" />
         <option value="$PROJECT_DIR$/HelloBootStrapWorld/exercice6.html" />
         <option value="$PROJECT_DIR$/HelloBootStrapWorld/exercice7.html" />
-        <option value="$PROJECT_DIR$/SiteBootStrap/css/style.css" />
         <option value="$PROJECT_DIR$/SiteBootStrap/index.html" />
+        <option value="$PROJECT_DIR$/SiteBootStrap/css/style.css" />
       </list>
     </option>
   </component>
@@ -148,8 +148,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="388" />
-    <option name="y" value="259" />
+    <option name="x" value="595" />
+    <option name="y" value="105" />
     <option name="width" value="1502" />
     <option name="height" value="1099" />
   </component>
@@ -196,11 +196,6 @@
             <path>
               <item name="LyseStudioL" type="b2602c69:ProjectViewProjectNode" />
               <item name="LyseStudioL" type="462c0819:PsiDirectoryNode" />
-              <item name="JeMePresente_v1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LyseStudioL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LyseStudioL" type="462c0819:PsiDirectoryNode" />
               <item name="SiteBootStrap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -208,6 +203,12 @@
               <item name="LyseStudioL" type="462c0819:PsiDirectoryNode" />
               <item name="SiteBootStrap" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LyseStudioL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LyseStudioL" type="462c0819:PsiDirectoryNode" />
+              <item name="SiteBootStrap" type="462c0819:PsiDirectoryNode" />
+              <item name="font" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LyseStudioL" type="b2602c69:ProjectViewProjectNode" />
@@ -239,11 +240,11 @@
       <recent name="$PROJECT_DIR$/JeMePresenteOnePage/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SiteBootStrap/font" />
       <recent name="$PROJECT_DIR$/SiteBootStrap/img" />
       <recent name="$PROJECT_DIR$/JeMePresenteOnePage2/img" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/JeMePresente_v1" />
-      <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -283,15 +284,15 @@
       <workItem from="1553811344129" duration="8120000" />
       <workItem from="1554416591189" duration="10361000" />
       <workItem from="1554502073960" duration="304000" />
-      <workItem from="1554545944549" duration="2283000" />
+      <workItem from="1554545944549" duration="6394000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88145000" />
+    <option name="totallyTimeSpent" value="92256000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="388" y="259" width="1502" height="1099" extended-state="0" />
+    <frame x="595" y="105" width="1502" height="1099" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1869863" />
@@ -463,13 +464,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloBootStrapWorld/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloBootStrapWorld/exercice5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -494,13 +488,6 @@
     <entry file="file://$PROJECT_DIR$/SiteBootStrap/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Han Solo/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloBootStrapWorld/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -508,17 +495,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HelloBootStrapWorld/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Han Solo/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SiteBootStrap/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+        <state relative-caret-position="804">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SiteBootStrap/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="878">
-          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+        <state relative-caret-position="191">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>
